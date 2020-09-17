@@ -1,3 +1,4 @@
 Este es un texto , para una practica.
 
-no tiene mayor funcion que la de ser un texto.
+no tiene MAYOR, 
+funcion que la de ser un texto.
